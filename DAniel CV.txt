@@ -1,0 +1,8 @@
+
+Hi Daniel
+
+I have looked at your CV, it looks good. A couple of comments...
+
+It is not usual on UK CV’s to have a photograph.
+
+When you apply for advertised vacancies, be aware that some Applicant Tracking Systems (ATS) cannot read information in a document’s header or footer, anything inside borders, shading or table format! The result is that important information can be passed over! Similarly, if you put your CV in a PDF format, some ATS systems will simply not be able to scan and read any part of its content (meaning instant rejection).
