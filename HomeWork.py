@@ -16,5 +16,5 @@ for x in line:
         fp2.write(str(x)+"\n")
 
 
-print(line)
+print(len(list))
 
