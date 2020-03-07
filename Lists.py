@@ -7,8 +7,8 @@ fp2 = open("results2.txt", "w")
 punct = ("-","?", "!", ":", ";", ",", '.','"', "'")
 
 for line in fp:
-        for p in punct:
-            line =line.replace(p," ")
+    for p in punct:
+        line =line.replace(p," ")
 for line in fp:
     fp2.write(line)
 fp.close()
